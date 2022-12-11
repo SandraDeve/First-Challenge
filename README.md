@@ -14,6 +14,11 @@ To reach the mentioned goal we will make the following changes :
 4. Heading attributes fall in sequential order
 
 5. Title elements contain a concise, descriptive title
+
+## Screenshot
+![Alt text](../Downloads/sandradeve.github.io_FirstChallenge_.png)
+## Link to deployed application
+https://sandradeve.github.io/FirstChallenge/
 ## Table of Contents
 N/A
 ## Instalation
