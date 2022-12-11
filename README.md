@@ -1,5 +1,5 @@
 # FirstChallenge
-## Decription
+## Description
 
 The purpose of the project is that website will meet accessibility standards, so that website is optimzed for search engines.
 
