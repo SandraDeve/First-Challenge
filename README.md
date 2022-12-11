@@ -16,7 +16,7 @@ To reach the mentioned goal we will make the following changes :
 5. Title elements contain a concise, descriptive title
 
 ## Screenshot
-![Alt text](../Downloads/sandradeve.github.io_FirstChallenge_.png)
+![Alt text](sandradeve.github.io_FirstChallenge_.png)
 ## Link to deployed application
 https://sandradeve.github.io/FirstChallenge/
 ## Table of Contents
